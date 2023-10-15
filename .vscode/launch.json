@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringbootCrudOperationsApplication<Springboot-CRUD-operations>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.Neder.Springboot.CRUD.operations.SpringbootCrudOperationsApplication",
+            "projectName": "Springboot-CRUD-operations",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
